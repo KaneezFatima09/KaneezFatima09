@@ -2,7 +2,7 @@
 
 **Computer Science Graduate**  
 **Machine Learning & AI Enthusiast**  
-**Data Analysis | Generative AI | NLP**  
+**| AI & ML | Generative AI | NLP | Data Analysis**  
 
 ---
 
