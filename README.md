@@ -27,8 +27,14 @@
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneezFatima09&layout=compact&theme=radical)
+---
+
+---
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical&hide_border=true)
+---
+---
 ![Snake animation](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/github-contribution-grid-snake.svg)
+---
 
 
 ### Connect with Me
