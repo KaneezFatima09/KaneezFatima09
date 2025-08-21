@@ -13,6 +13,13 @@
 -  Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**  
 
 ---
+---
+### Connect with Me
+-  [LinkedIn](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)
+-  [Kaggle](https://www.kaggle.com/kaneezfatima09)
+-  Email: **kaneezfatima.cli@gmail.com**  
+
+---
 
 ### Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,14 +40,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical&hide_border=true)
 ---
 ---
-![Snake animation](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaneezFatima/KaneezFatima/blob/output/snake.svg)
 ---
 
 
-### Connect with Me
--  [LinkedIn](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)
--  [Kaggle](https://www.kaggle.com/kaneezfatima09)
--  Email: **kaneezfatima.cli@gmail.com**  
-
----
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
