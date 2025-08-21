@@ -10,9 +10,8 @@
 - Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
 - Working on: **GAN-based Urdu Text Generation**  
 - Passionate about using AI to create innovative solutions that improve lives  
--  Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**  
+-  Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**
 
----
 ---
 ### Connect with Me
 -  [LinkedIn](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)
@@ -35,8 +34,10 @@
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneezFatima09&layout=compact&theme=radical)
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical)
+---
 ![Snake animation](https://github.com/KaneezFatima/KaneezFatima/blob/output/snake.svg)
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical)
+
 
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
