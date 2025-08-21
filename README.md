@@ -35,13 +35,12 @@
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneezFatima09&layout=compact&theme=radical)
 ---
-
----
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical&hide_border=true)
----
 ---
 ![Snake animation](https://github.com/KaneezFatima/KaneezFatima/blob/output/snake.svg)
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical)
+
 
 
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
