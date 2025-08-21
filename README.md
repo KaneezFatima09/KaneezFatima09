@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 - Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
 - Working on: **GAN-based Urdu Text Generation**  
 - Passionate about using AI to create innovative solutions that improve lives  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Skills & Tools
+### Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -27,10 +27,10 @@
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)  
-- 📧 Email: **kaneezfatima.cli.com**  
+### Connect with Me
+-  [LinkedIn](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)
+-  [Kaggle](https://www.kaggle.com/kaneezfatima09)
+-  Email: **kaneezfatima.cli@gmail.com**  
 
 ---
-
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real-world impact.”*  
