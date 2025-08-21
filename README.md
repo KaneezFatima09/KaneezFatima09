@@ -38,6 +38,6 @@
 ---
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneezFatima09&theme=react-dark)
 ---
-![Snake animation](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/snake.svg)
 ---
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
