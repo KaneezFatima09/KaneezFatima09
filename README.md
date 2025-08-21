@@ -1,16 +1,16 @@
 # Hi there, I'm Kaneez Fatima 👋  
 
-🎓 **Computer Science Graduate**  
-🤖 **Machine Learning & AI Enthusiast**  
-📊 **Data Analysis | Generative AI | NLP**  
+**Computer Science Graduate**  
+**Machine Learning & AI Enthusiast**  
+**Data Analysis | Generative AI | NLP**  
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
-- 🛠️ Working on: **GAN-based Urdu Text Generation**  
-- 💡 Passionate about using AI to create innovative solutions that improve lives  
-- 🔭 Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**  
+- Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
+- Working on: **GAN-based Urdu Text Generation**  
+- Passionate about using AI to create innovative solutions that improve lives  
+-  Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**  
 
 ---
 
