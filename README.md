@@ -33,4 +33,4 @@
 -  Email: **kaneezfatima.cli@gmail.com**  
 
 ---
-*“Curiosity drives innovation. I believe in building AI that helps people and creates real-world impact.”*  
+*“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
