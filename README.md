@@ -40,4 +40,7 @@
 ---
 ![GitHub Contribution Snake](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/snake.svg)
 ---
+<p align="center">
+<img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
+</p>
 *“Curiosity drives innovation. I believe in building AI that helps people and creates real world impact.”*  
