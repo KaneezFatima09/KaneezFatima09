@@ -1,14 +1,18 @@
----
+ ---
+
 # Hi there , I'm Kaneez Fatima 👋
 
 **Computer Science Graduate**  
 **Machine Learning & AI Enthusiast**  
+
  ---
+ 
 ### About Me
 - My journey in tech is centered around AI & ML, where I explore Generative AI and NLP, while using Data Analysis to uncover meaningful insights.
 - Currently exploring **Generative AI** and its applications in **Natural Language Processing** . 
 - Working on: **GAN-based Urdu Text Generation**  .
 - Beyond coding, I find joy in books, art, and fashion . I dream of traveling the world , discovering cultures, and capturing beautiful moments. I also maintain a passion for fitness and sports, which keep me energized and motivated.
+- 
 <p align="center">
 <img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
 </p>
@@ -16,6 +20,7 @@
 My goal is to create technology that goes beyond being smart, making it meaningful, empowering people, simplifying life, and opening doors to opportunities.
 </p> 
 ---
+
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaneez-fatima-5ba547205/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kaneezfatima09)
