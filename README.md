@@ -1,4 +1,4 @@
-# Hi there, I'm Kaneez Fatima
+# Hi there 👋  , I'm Kaneez Fatima
 
 **Computer Science Graduate**  
 **Machine Learning & AI Enthusiast**  
