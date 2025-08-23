@@ -9,6 +9,7 @@
 - Working on: **GAN-based Urdu Text Generation**  .
 - Beyond coding, I find joy in books, art, and fashion . I dream of traveling the world , discovering cultures, and capturing beautiful moments. I also maintain a passion for fitness and sports, which keep me energized and motivated.
 
+  ---
 <p align="center">
 <img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
 </p>
