@@ -1,5 +1,3 @@
- ---
-
 # Hi there , I'm Kaneez Fatima 👋
 
 **Computer Science Graduate**  
@@ -12,13 +10,14 @@
 - Currently exploring **Generative AI** and its applications in **Natural Language Processing** . 
 - Working on: **GAN-based Urdu Text Generation**  .
 - Beyond coding, I find joy in books, art, and fashion . I dream of traveling the world , discovering cultures, and capturing beautiful moments. I also maintain a passion for fitness and sports, which keep me energized and motivated.
-- 
+ ---
 <p align="center">
 <img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
 </p>
 <p align="center">
 My goal is to create technology that goes beyond being smart, making it meaningful, empowering people, simplifying life, and opening doors to opportunities.
 </p> 
+
 ---
 
 ### Connect with Me
