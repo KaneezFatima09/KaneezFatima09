@@ -3,11 +3,15 @@
 
 **Computer Science Graduate**  
 **Machine Learning & AI Enthusiast**  
-**| AI & ML | Generative AI | NLP | Data Analysis**  
-
----
+ ---
 
 ### About Me
+<p align="center">
+<img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
+</p>
+<p align="center">
+My journey in tech is centered around AI & ML, where I explore Generative AI and NLP, while using Data Analysis to uncover meaningful insights.
+</p> 
 - Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
 - Working on: **GAN-based Urdu Text Generation**  
 - Passionate about using AI to create innovative solutions that improve lives  
@@ -19,6 +23,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kaneezfatima09)
 
 ---
+## My Vision
+I want to create technology that’s not just **smart**, but also **meaningful** , empowering people, simplifying life, and opening doors to opportunities .  
 
 ### Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
