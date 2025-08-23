@@ -1,21 +1,18 @@
-# Hi there 👋
-# I'm Kaneez Fatima
+# Hi there , I'm Kaneez Fatima
 
 **Computer Science Graduate**  
 **Machine Learning & AI Enthusiast**  
  ---
 
 ### About Me
-<p align="center">
-<img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
-</p>
-<p align="center">
-My journey in tech is centered around AI & ML, where I explore Generative AI and NLP, while using Data Analysis to uncover meaningful insights.
-</p> 
-- Currently exploring **Generative AI** and its applications in **Natural Language Processing**  
-- Working on: **GAN-based Urdu Text Generation**  
-- Passionate about using AI to create innovative solutions that improve lives  
--  Interested in: **Deep Learning, Computer Vision, NLP, and AI for Social Good**
+- My journey in tech is centered around AI & ML, where I explore Generative AI and NLP, while using Data Analysis to uncover meaningful insights.
+- Currently exploring **Generative AI** and its applications in **Natural Language Processing** . 
+- Working on: **GAN-based Urdu Text Generation**  .
+- Passionate about using AI to create innovative solutions that improve lives.
+- Beyond coding, I find joy in books, art, and fashion . I dream of traveling the world , discovering cultures, and capturing beautiful moments. Staying active through fitness and sports is also an important part of my lifestyle  
+
+## My Vision
+I want to create technology that’s not just **smart**, but also **meaningful** , empowering people, simplifying life, and opening doors to opportunities .  
 
 ---
 ### Connect with Me
@@ -23,8 +20,6 @@ My journey in tech is centered around AI & ML, where I explore Generative AI and
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kaneezfatima09)
 
 ---
-## My Vision
-I want to create technology that’s not just **smart**, but also **meaningful** , empowering people, simplifying life, and opening doors to opportunities .  
 
 ### Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
