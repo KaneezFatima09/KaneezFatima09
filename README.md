@@ -42,7 +42,8 @@ My goal is to create technology that goes beyond being smart, making it meaningf
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneezFatima09&layout=compact&theme=radical)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneezFatima09&layout=compact&theme=radical)
+---
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical)
 ---
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneezFatima09&theme=react-dark)
