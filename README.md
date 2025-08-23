@@ -10,13 +10,13 @@
 - Passionate about using AI to create innovative solutions that improve lives.
 - Beyond coding, I find joy in books, art, and fashion . I dream of traveling the world , discovering cultures, and capturing beautiful moments. I also maintain a passion for fitness and sports, which keep me energized and motivated.
 
-<p align="center">
+## <p align="center">
 <img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
 </p>
 <p align="center">
-## My Vision
 I want to create technology that’s not just **smart**, but also **meaningful** , empowering people, simplifying life, and opening doors to opportunities .  
-</p> 
+</p> ##
+
 
 ---
 ### Connect with Me
