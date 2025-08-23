@@ -13,7 +13,7 @@
 <img src="https://github.com/KaneezFatima09/KaneezFatima09/blob/main/quote.gif" alt="Curiosity Quote">
 </p>
 <p align="center">
-I am passionate about creating technology that’s not just **smart**, but also **meaningful** , empowering people, simplifying life, and opening doors to opportunities .  
+My goal is to create technology that goes beyond being smart, making it meaningful, empowering people, simplifying life, and opening doors to opportunities.
 </p> 
 
 
