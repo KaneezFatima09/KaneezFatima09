@@ -46,8 +46,6 @@ My goal is to create technology that goes beyond being smart, making it meaningf
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaneezFatima09&theme=radical)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneezFatima09&show_icons=true&theme=radical)
----
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneezFatima09&theme=react-dark)
 ---
 ![GitHub Contribution Snake](https://github.com/KaneezFatima09/KaneezFatima09/blob/output/snake.svg)
